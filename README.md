@@ -1,3 +1,6 @@
-# diy-react-website-start-pt1
+# technova-diy-react-website
 
-This is the starter code for the first code-along of the Technova DIY Website Using React Workshop.
+This repository contains the starter code for the TechNova DIY Website using React workshop.
+
+The folders each contain code for a different part of the workshop. In order from start to finish:
+1. 
