@@ -3,6 +3,7 @@ import GmailIcon from '../assets/gmail-logo.png';
 import LinkedinIcon from '../assets/linkedin-logo.png';
 
 function Socials() {
+  //Style components using JS Objects + JSX
   const imageStyle = {
     marginRight: '30px',
     height: '35px',

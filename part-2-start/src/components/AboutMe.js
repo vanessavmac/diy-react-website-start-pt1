@@ -1,11 +1,13 @@
-function AboutMe() {
+function AboutMe(props) {
+  // JSX stands for JavaScript XML. JSX allows us to write HTML in React. JSX makes it easier to write and add HTML in React.
+  // { } indicate JSX. 
+  // In simple terms, you can think of it as adding JS within the HTML template returned by the component.
   return (
     <div>
       {/* Style react component using inline JSX */}
-      <h1 style={{ margin: '0px' }}>hi, i'm vanessa</h1>
+      <h1 style={{ margin: '0px' }}>{ props.headline }</h1>
       <p>
-        I am a 2nd year biomedical engineering student with a passion for
-        building accessible websites.
+        { props.subtitle }
       </p>
     </div>
   );
