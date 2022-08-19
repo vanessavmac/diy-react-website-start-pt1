@@ -1,0 +1,16 @@
+/* Apply global styles here */
+body {
+  font-family: 'Poppins', sans-serif;
+  margin-left: 12%;
+  margin-right: 12%;
+}
+
+h1 {
+  font-size: 70px;
+  margin-top: 5%;
+}
+
+h2 {
+  color: white;
+  padding-bottom: 2%;
+}
