@@ -13,8 +13,11 @@ function LandingPage() {
     height: '250px',
     float: 'right',
   };
-
   return (
+    // JSX stands for JavaScript XML. 
+    // A syntax extension to JavaScript.
+    // JSX allows us to write HTML in React.
+    // { } indicate JSX.
     <div style={divStyle}>
       <img src={ProfilePic} alt="Profile" style={imageStyle} />
       <div>
