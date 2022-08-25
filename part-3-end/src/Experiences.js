@@ -18,7 +18,7 @@ const experiences = [
       active: true,
       title: "Founder/Co-Director",
       company: "Eye Hope Canada",
-      description: "Organize charity events and awareness campaigns to support families affected by childhood eye canacer."
+      description: "Organize charity events and awareness campaigns to support families affected by childhood eye cancer."
     },
   ];
   
