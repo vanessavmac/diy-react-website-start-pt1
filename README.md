@@ -9,6 +9,13 @@ The folders each contain code for a different part of the workshop. In order fro
 2. `part-3-start`
 3. `part-3-finish`
 
+# Pre-Requisites
+- Have [Node 16 and NPM](https://nodejs.org/en/) installed
+- Visual Studio Code
+    - Install the prettier extension (optional)
+- Git installed (optional)
+- Basic understanding of HTML, CSS, and Javascript may be helpful.
+
 # Workshop Agenda
 
 **Duration**: 1 hour
