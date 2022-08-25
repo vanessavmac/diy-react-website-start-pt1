@@ -5,6 +5,7 @@ import ProfilePic from '../assets/profile-pic.jpeg';
 function LandingPage() {
   const divStyle = {
     marginTop: '25%',
+    marginBottom: '25%'
   };
   // Style react component using JS object and JSX (notice the camel case properties!)
   const imageStyle = {
